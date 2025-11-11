@@ -13,7 +13,7 @@
   <!-- REPLACE WITH YOUR GITHUB_USERNAME -->
   <groupId>chriskaza81</groupId>
 
-  <distributionManagement>
+  <distributionManagement> 
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
