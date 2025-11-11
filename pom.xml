@@ -19,7 +19,7 @@
       <name>GitHub Packages</name>
 
       <!-- REPLACE WITH YOUR GITHUB_USERNAME and GITHUB_REPONAME -->
-      <url>https://maven.pkg.github.com/chriskaza81/Mytest</url>
+      <url>https://maven.pkg.github.com/chriskaza81/Mytest1</url>
 
     </repository>
   </distributionManagement>
